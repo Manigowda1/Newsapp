@@ -1,1 +1,1 @@
-# Newsapp
+# Flask_project simple News application
